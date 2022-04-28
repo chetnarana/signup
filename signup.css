@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+   background-image:url(bgimg.jpg);
+   background-size: cover;
+   background-position: center;
+}
+.signupform{
+    background-image: linear-gradient();
+width: 300px;
+box-shadow: red;
+background: rgb(245 236 236);
+padding: 20px;
+margin: 10% auto 0;
+text-align: center;
+}
+.signupform h1
+{
+    color: rgb(16, 16, 61);
+    margin-bottom: 30px;
+}
+.input-box{
+   border-radius: 30px;
+   padding:10px ;
+   margin: 10px 0;
+   width:100% ;
+   border: 1px solid black;
+  outline: none;
+}
